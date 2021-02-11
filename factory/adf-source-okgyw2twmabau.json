@@ -5,6 +5,10 @@
 			"testVariable": {
 				"type": "string",
 				"value": "testValue"
+			},
+			"testVar2": {
+				"type": "string",
+				"value": "test2"
 			}
 		}
 	},
