@@ -1,4 +1,12 @@
 {
 	"name": "adf-source-okgyw2twmabau",
+	"properties": {
+		"globalParameters": {
+			"testVariable": {
+				"type": "string",
+				"value": "testValue"
+			}
+		}
+	},
 	"location": "westeurope"
 }
