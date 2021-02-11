@@ -1,1 +1,6 @@
-{}
+{
+	"testVariable": {
+		"type": "string",
+		"value": "testValue"
+	}
+}
